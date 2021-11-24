@@ -1,3 +1,3 @@
 # ColorKit
 
-A description of this package.
+A Swift package that provides useful extensions regarding colors, both in UIKit and SwiftUI.
